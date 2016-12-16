@@ -1,0 +1,15 @@
+Pfleger-Will-proj02:
+total 44
+-rw-r--r--. 1 ugrad 1882 Apr  5 00:23 Board.cpp
+-rw-r--r--. 1 ugrad  350 Apr  5 00:24 Board.h
+-rw-r--r--. 1 ugrad  509 Apr  5 00:24 HumanPlayer.cpp
+-rw-r--r--. 1 ugrad  354 Apr  5 00:25 HumanPlayer.h
+-rw-r--r--. 1 ugrad  739 Apr  5 00:18 Makefile
+-rw-r--r--. 1 ugrad  189 Apr  5 00:25 Player.cpp
+-rw-r--r--. 1 ugrad  344 Apr  5 00:25 Player.h
+-rw-r--r--. 1 ugrad 1936 Apr  5 00:26 proj2.cpp
+-rw-r--r--. 1 ugrad  370 Apr  4 19:56 README.md
+-rw-r--r--. 1 ugrad    0 Apr  5 00:28 rec23890
+-rw-r--r--. 1 ugrad  435 Apr  5 00:26 SimpleComputerPlayer.cpp
+-rw-r--r--. 1 ugrad  381 Apr  5 00:26 SimpleComputerPlayer.h
+/home/ugrads/pfleger/CSCI1730/Projects/Pfleger-Will-proj02:/home/work/cs1730
